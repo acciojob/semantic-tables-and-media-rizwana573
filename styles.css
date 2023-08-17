@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+table{
+border: 1px solid #000;
+	width:100%;
+}
+th, td{
+border: 1px solid #000;	
+}
